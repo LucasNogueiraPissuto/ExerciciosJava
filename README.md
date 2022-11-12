@@ -1,6 +1,8 @@
 # ExerciciosJava
 Dedico esse repositório para exercícios que eu fiz relacionados ao treinamento de JAVA que venho praticando. Abaixo, mais informações sobre cada pasta presente nesse projeto.
 
+As pastas com os codigos se encontram em SRC
+
 # ExercicosSeção4
 São exercicos que tratam Estrutura sequencial
 
